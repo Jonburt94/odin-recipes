@@ -20,6 +20,11 @@
     color: blue;
     font-size: 40px;
     font-family: Helvetica, Garamond;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    padding: 0 24px;
 }
 
 .recipe-link:hover {
@@ -29,3 +34,9 @@
 .recipe-link:active {
     color: green;
 }
+
+.spacing {
+    margin-bottom: 10px;
+}
+
+
