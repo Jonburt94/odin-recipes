@@ -1,2 +1,2 @@
 # odin-recipes
-html practice
+html & css practice
