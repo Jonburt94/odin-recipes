@@ -1,0 +1,31 @@
+.title.image {
+    background-image: url('recipes.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 80px;
+}
+
+.title {
+    color: rgb(0, 100, 100);
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Papyrus, Helvetica, Garamond;
+}
+
+.recipe-link {
+    color: blue;
+    font-size: 40px;
+    font-family: Helvetica, Garamond;
+}
+
+.recipe-link:hover {
+    color: darkblue;
+}
+
+.recipe-link:active {
+    color: green;
+}

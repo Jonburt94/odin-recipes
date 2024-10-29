@@ -1,0 +1,24 @@
+.title {
+    color: rgb(0, 100, 100);
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Papyrus, Helvetica, Garamond;
+}
+
+html, body {
+    height: 100%; /* Ensure the body takes the full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height of the viewport */
+}
+
+img {
+    max-width: 100%; /* Optional: keeps the image from exceeding the width of its container */
+    height: auto; /* Optional: maintains the image's aspect ratio */
+}
